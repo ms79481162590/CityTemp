@@ -1,3 +1,8 @@
+/*Nov 7, 2021
+Dr T. TCC
+temperature of citys 
+Fundamentals of layered arrays/ nested loops
+*/
 #include <iostream>
 
 //Student Name:
